@@ -1,0 +1,142 @@
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.exe
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.deps.json
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.runtimeconfig.json
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.runtimeconfig.dev.json
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowBLL.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowDAL.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowBLL.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowDAL.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.csproj.AssemblyReference.cache
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.AssemblyInfoInputs.cache
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.AssemblyInfo.cs
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.csproj.CoreCompileInputs.cache
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\MovieAppCoreAPI.StaticWebAssets.Manifest.cache
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.RazorTargetAssemblyInfo.cache
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.csproj.CopyComplete
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.dll
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.pdb
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.genruntimeconfig.cache
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\csharp\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\csharp\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.exe
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.deps.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.runtimeconfig.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.runtimeconfig.dev.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\MovieAppCoreAPI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowBLL.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowDAL.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowBLL.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowDAL.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.AssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\MovieAppCoreAPI.StaticWebAssets.Manifest.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.csproj.CopyComplete
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieAppCoreAPI\obj\Debug\netcoreapp3.1\MovieAppCoreAPI.genruntimeconfig.cache

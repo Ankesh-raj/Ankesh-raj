@@ -1,0 +1,41 @@
+﻿@model BookShowEntity.User
+@{
+    ViewData["Title"] = "EditUser";
+}
+
+<h1>EditUser</h1>
+<form method="post" enctype="multipart/form-data">
+    <h2>user Entry</h2><hr />
+    <div class="group-form">
+        <label>User Name</label>
+        <input type="text" asp-for="Name" class="form-control" placeholder="enter the user name" required />
+    </div>
+
+    <div class="group-form">
+        <label>User Email</label>
+        <input type="text" asp-for="Email" class="form-control" placeholder="enter the email" required />
+    </div>
+
+    <div class="group-form">
+        <label>user Password</label>
+        <input type="text" asp-for="Password" class="form-control" placeholder="enter the password" required />
+    </div>
+
+    <input type="submit" value="save" class="btn btn-outline-success" />
+    <input type="button" value="reset" class="btn btn-outline-secondary" />
+    <hr />
+
+    @if (ViewBag.status == "Ok")
+    {
+        <div class="alert alert-success">
+            @ViewBag.message
+        </div>
+    }
+    else if (ViewBag.status == "Error")
+    {
+        <div class="alert alert-danger">
+            @ViewBag.message
+        </div>
+    }
+</form>
+

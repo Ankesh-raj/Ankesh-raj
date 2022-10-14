@@ -1,0 +1,32 @@
+﻿@model BookShowEntity.Theatre;
+@{
+    ViewData["Title"] = "DeleteTheatre";
+}
+<form method="post" enctype="multipart/form-data">
+<h1>DeleteTheatre</h1>
+    <h2>Theatre  Entry</h2><hr />
+    <div class="group-form">
+        <label>Movie id</label>
+        <input type="text" asp-for="Id" class="form-control" placeholder="enter movie name" required />
+    </div>
+
+   
+    <input type="submit" value="save" class="btn btn-outline-success" />
+    <input type="button" value="reset" class="btn btn-outline-secondary" />
+    <hr />
+
+    @if (ViewBag.status == "Ok")
+    {
+        <div class="alert alert-success">
+            @ViewBag.message
+        </div>
+    }
+    else if (ViewBag.status == "Error")
+    {
+        <div class="alert alert-danger">
+            @ViewBag.message
+        </div>
+    }
+</form>
+
+

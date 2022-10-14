@@ -1,0 +1,26 @@
+C:\csharp\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.deps.json
+C:\csharp\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.runtimeconfig.json
+C:\csharp\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.runtimeconfig.dev.json
+C:\csharp\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\csharp\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\csharp\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.csproj.AssemblyReference.cache
+C:\csharp\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.AssemblyInfoInputs.cache
+C:\csharp\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.AssemblyInfo.cs
+C:\csharp\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.csproj.CoreCompileInputs.cache
+C:\csharp\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\csharp\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\csharp\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.genruntimeconfig.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.deps.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.runtimeconfig.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.runtimeconfig.dev.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.AssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowEntity\obj\Debug\netcoreapp3.1\BookShowEntity.genruntimeconfig.cache

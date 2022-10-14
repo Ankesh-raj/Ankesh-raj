@@ -1,0 +1,45 @@
+﻿@model IEnumerable<BookShowEntity.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div>
+    <hr />
+    <a asp-controller="User" asp-action="UserEntry">User Entry</a>
+    <hr />
+</div>
+  
+    <div class="row">
+        <div class="col-12">
+            <h3>Movies</h3>
+            <hr />
+            <table class="table table-light table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Movie Id</th>
+                        <th>Movie Name</th>
+                        <th>Movie Desc</th>
+                        <th>Movie Type</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var movie in Model)
+                    {
+                        <tr>
+                            <td>@movie.Id</td>
+                            <td>@movie.Name</td>
+                            <td>@movie.Email</td>
+                            <td>@movie.Password</td>
+
+                            <td><a asp-controller="User" asp-action="EditUser" asp-route-Id="@movie.Id">Edit</a></td>
+                            <td><a asp-controller="User" asp-action="DeleteUser" asp-route-Id="@movie.Id">Delete</a></td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>

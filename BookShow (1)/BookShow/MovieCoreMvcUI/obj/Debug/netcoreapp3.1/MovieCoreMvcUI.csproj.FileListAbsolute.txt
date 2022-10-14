@@ -1,0 +1,326 @@
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.exe
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.deps.json
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.runtimeconfig.json
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.runtimeconfig.dev.json
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.Views.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.Views.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.csproj.AssemblyReference.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.AssemblyInfoInputs.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.AssemblyInfo.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.csproj.CoreCompileInputs.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.MvcApplicationPartsAssemblyInfo.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorAssemblyInfo.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorAssemblyInfo.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\staticwebassets\MovieCoreMvcUI.StaticWebAssets.Manifest.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.TagHelpers.input.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.TagHelpers.output.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorCoreGenerate.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorTargetAssemblyInfo.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorTargetAssemblyInfo.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.Views.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.dll
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.genruntimeconfig.cache
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.csproj.CopyComplete
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Movie\MovieEntry.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\csharp\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Theatre\Index.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Theatre\TheatreEntry.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Show\ShowEntry.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Show\Index.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\User\UserEntry.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Book\BookEntry.cshtml.g.cs
+C:\csharp\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Movie\EditMovie.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.exe
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.deps.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.runtimeconfig.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.runtimeconfig.dev.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.Views.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\MovieCoreMvcUI.Views.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.AssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorAssemblyInfo.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorAssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\staticwebassets\MovieCoreMvcUI.StaticWebAssets.Manifest.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.TagHelpers.input.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.TagHelpers.output.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorCoreGenerate.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Book\BookEntry.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Movie\DeleteMovie.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Movie\EditMovie.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Movie\MovieEntry.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Show\Index.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Show\ShowEntry.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Theatre\DeleteTheatre.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Theatre\EditTheatre.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Theatre\Index.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\Theatre\TheatreEntry.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\User\EditUser.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\User\UserEntry.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorTargetAssemblyInfo.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.RazorTargetAssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.Views.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.csproj.CopyComplete
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\MovieCoreMvcUI\obj\Debug\netcoreapp3.1\MovieCoreMvcUI.genruntimeconfig.cache

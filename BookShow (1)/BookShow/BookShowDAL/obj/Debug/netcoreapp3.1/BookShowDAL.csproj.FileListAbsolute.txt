@@ -1,0 +1,32 @@
+C:\csharp\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.deps.json
+C:\csharp\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.runtimeconfig.json
+C:\csharp\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.runtimeconfig.dev.json
+C:\csharp\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.dll
+C:\csharp\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.pdb
+C:\csharp\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\csharp\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.AssemblyReference.cache
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.AssemblyInfoInputs.cache
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.AssemblyInfo.cs
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.CoreCompileInputs.cache
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.CopyComplete
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.dll
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.pdb
+C:\csharp\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.genruntimeconfig.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.deps.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.runtimeconfig.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.runtimeconfig.dev.json
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowDAL.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowEntity.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\bin\Debug\netcoreapp3.1\BookShowEntity.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.AssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.csproj.CopyComplete
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.dll
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.pdb
+C:\Users\ankesh.raj\Downloads\BookShow (1)\BookShow\BookShowDAL\obj\Debug\netcoreapp3.1\BookShowDAL.genruntimeconfig.cache
